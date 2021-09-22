@@ -10,7 +10,7 @@
   
 5. Restart Inkscape, then click on the “Extensions” menu and highlight the heading “Laser Tools”.
 6. Select “Tabbed Box Maker”, a pop-up menu will appear asking for the properties of the box you would like to design.
-![Tabbed Box Maker popup](https://imgur.com/ybV6Yy1)
+![Tabbed Box Maker popup](https://imgur.com/a/HFZf0fd)
 8. Select your measurement units.
 9. Inside/Outside refers to whether your measurement dimensions are for the inside of the box or the outside.
 10. Enter your dimensions and preferred tab width (note, if you select a tab width too big or too small for the box dimensions, the extension will give you an error message.)
